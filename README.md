@@ -36,15 +36,16 @@
 
 | 🎓 Tutorial | ✨ Práctica | 🔗 Enlace de Evidencia |
 |------------|------------|----------------------|
-| Tutorial 2 | *Movilidad Básica* | [Ver Carpeta](https://drive.google.com/drive/folders/1fAP_yA7uvkCKehcSlECdI6PfE1E123fg?usp=sharing) |
-| Tutorial 3 | *Efectos y sonido* | [Ver Carpeta](https://drive.google.com/drive/folders/1FmHDwk9S3lV5iXXQeo-RspOP0m3e522_?usp=sharing) |
-| Tutorial 5 | *Interfaz de Usuario* | [Ver Carpeta](https://drive.google.com/drive/folders/1MEwpiJ7kANdCNd_xYaB6lGyLM3Ie2G05?usp=sharing) |
+| Tutorial 1 | *Collider* |[Ver Carpeta](https://drive.google.com/drive/folders/1Pe_gVOpwsyejIoGkUb5sX1e1Sux7VHlV?usp=sharing)|
+| Tutorial 2 | *Movilidad Básica* | [Ver Carpeta](https://drive.google.com/drive/folders/1lgcNVB8OGv5CTsTFDG6WDyw2vpjy1Ym9?usp=sharing) |
+| Tutorial 3 | *Efectos y sonido* | [Ver Carpeta](https://drive.google.com/drive/folders/1lWM4UVGCxOdAzOIl12UJ4HKf4j90sPcB?usp=sharing) |
+| Tutorial 5 | *Interfaz de Usuario* | [Ver Carpeta](https://drive.google.com/drive/folders/1Y2aflNl7sgR3Xbg3HVl3Mxl8a8qvi0z-?usp=sharing) |
 
 ---
 
 | Juego | Detalles | 🔗 Enlace de Evidencia |
 |------------|------------|----------------------|
-| Jump N Run | El jugador tiene que saltar los obstaculos y llegar hasta la meta| [Ver Carpeta](https://drive.google.com/drive/folders/12dNqMwk5Sj4h5c3Twje1pEdMDBMqsRvm?usp=sharing) |
+| Jump N Run | Descargables| [Ver Carpeta](https://drive.google.com/drive/folders/1GsobhoCGNPYiUvRjcy4qV9fLaKh8G09T?usp=drive_link) |
 
 
 ---
