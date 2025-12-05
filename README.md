@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://github.com/tuusuario/tu-repo/blob/main/A_pixel_art_digital_illustration_of_a_hacker_chara.png?raw=true" 
-       alt="Pixel Art Hacker" width="300" 
+        
        style="border-radius:15px; box-shadow:0px 0px 20px #00FF99; margin: 20px 0;">
 </div>
 
