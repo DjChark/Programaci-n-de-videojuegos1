@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00ff99,100:0072ff&reversal=true&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0072ff,100:00c6ff&reversal=true&animation=fadeIn" />
 </div>
 
 <h3 align="center">
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Programación+de+videojuegos+1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0072FF&center=true&vCenter=true&width=435&lines=Programación+de+videojuegos+1">
   </a>
 </p>
 
@@ -19,8 +19,7 @@
 
 <div align="center">
   <img src="https://github.com/tuusuario/tu-repo/blob/main/A_pixel_art_digital_illustration_of_a_hacker_chara.png?raw=true" 
-        
-       style="border-radius:15px; box-shadow:0px 0px 20px #00FF99; margin: 20px 0;">
+       style="border-radius:15px; box-shadow:0px 0px 20px #0072FF; margin: 20px 0;">
 </div>
 
 | 📝 Campo | 📌 Detalle |
@@ -50,8 +49,8 @@
 
 ---
 
-<div align="center" style="background-color:#0f3d0f; padding: 10px; border-radius: 15px;">
-  <h3 style="color:#00ff6a;"> Hola mundo 🕹</h3>
+<div align="center" style="background-color:#001f3f; padding: 10px; border-radius: 15px;">
+  <h3 style="color:#0072ff;"> Hola mundo 🕹</h3>
 </div>
 
 <p align="center">
